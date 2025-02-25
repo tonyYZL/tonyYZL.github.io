@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 關於
 
-::github{repo="saicaca/fuwari"}
+## 成立本網站的宗旨
+紀錄自己學習各項程式技術的過程，同時也希望這些文章能幫助到其他正在努力學習的人🚀
 
-> ### Sources of images used in this site
+## 網站內容
+這裡主要會放我學習 coding 的筆記，包含專案的製作過程、程式的相關知識，也可能會有資料結構和演算法的介紹（如果我能長久經營的話）
+
+未來也想放一些技術相關以外的主題（我有堅持下去的前提下）
+
+（最後編輯：2025/02/25）
+
+<!-- > ### Sources of images used in this site -->
+> ### 本網站所使用的圖片來源
 > - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+---
+本網站成立於 2025/02/25

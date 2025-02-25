@@ -26,9 +26,9 @@ export const zh_TW: Translation = {
 
   [Key.themeColor]: '主題色',
 
-  [Key.lightMode]: '亮色',
-  [Key.darkMode]: '暗色',
-  [Key.systemMode]: '跟隨系統',
+  [Key.lightMode]: '淺色',
+  [Key.darkMode]: '深色',
+  [Key.systemMode]: '系統預設',
 
   [Key.more]: '更多',
 

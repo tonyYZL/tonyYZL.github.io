@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
   subtitle: '程式學習紀錄',
   lang: 'zh_TW',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
-    hue: 210,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    hue: 100,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
@@ -72,6 +72,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/tonyYZL',
     },
+    {
+      name: 'Email',
+      icon: 'fa6-solid:envelope',
+      url: 'mailto:t0965176327@gmail.com'
+    }
   ],
 }
 
